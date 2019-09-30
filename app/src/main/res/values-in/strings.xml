@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JustJavaLocalization</string>
+    <string name="toppings">Taburan</string>
+    <string name="thank_you">Terima kasih</string>
+    <string name="quantity" translatable="false">Jumlah</string>
+</resources>
